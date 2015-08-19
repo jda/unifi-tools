@@ -19,7 +19,6 @@ minSNR = sys.argv[3]
 with open(cfgFile) as data_file:    
     cfg = json.load(data_file)
 
-print cfg
 # get database
 dbCfg = cfg['database']
 client = MongoClient(dbCfg['host'], dbCfg['port'])
