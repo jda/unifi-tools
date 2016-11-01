@@ -1,4 +1,6 @@
 # unifi-tools
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Miscellaneous tools for UniFi
 
 ## gen-minrssi.py
